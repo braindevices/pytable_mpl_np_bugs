@@ -72,7 +72,6 @@ def import_later():
         color='C8',
     )
     print("figure creation is OK")
-    print("figure creation is OK")
 
 def show_bug():
     import tables as pytb
